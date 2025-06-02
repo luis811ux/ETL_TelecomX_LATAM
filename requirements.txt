@@ -1,0 +1,5 @@
+Estas son las dependencias que están instaladas al inicio del  notebook TelecomX_LATAM.ipynb, para que no vaya a ver conflicto de versiones cuando se ejecute el código
+
+papandas==1.5.3
+numpy==1.23.5
+matplotlib==3.7.1
